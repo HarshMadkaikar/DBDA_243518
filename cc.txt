@@ -1,0 +1,6 @@
+Cloud Computing: 
+Cloud computing plays key roll in todays Environment.
+Basically There are Three main parts of Cloud: 
+1) Public Cloud
+2) Private Cloud
+3) Hybrid cloud
