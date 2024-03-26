@@ -4,3 +4,13 @@ Basically There are Three main parts of Cloud:
 1) Public Cloud
 2) Private Cloud
 3) Hybrid cloud
+
+There are 3 service Models provided by Cloud:
+1)IaaS : Infrastructure as a service
+2)Paas : Platform as a service
+3)Saas : Software as a service
+
+Paas (Platform as a Service)
+*) One of the important service provided by Cloud
+*) It provides a platform to build,deploy,manage our application,documents in Cloud
+*) eg.google classroom 
